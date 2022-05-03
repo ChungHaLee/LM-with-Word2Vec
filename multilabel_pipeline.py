@@ -1,6 +1,7 @@
 from typing import Union, Optional
 
 import numpy as np
+
 from transformers.pipelines import ArgumentHandler
 from transformers import (
     Pipeline,
